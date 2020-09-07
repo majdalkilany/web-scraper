@@ -37,3 +37,4 @@ The Spanish had no intention to turn over Tenochtitlan to the Tlaxcalteca. While
 
 During the three centuries of colonial rule, fewer than 700,000 Spaniards, most of them men, settled in Mexico. '''
     assert actual == expected
+
